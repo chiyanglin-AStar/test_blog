@@ -1,3 +1,11 @@
 # test_blog
 
 from : https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html
+
+other ref: 
+
+https://simondosda.github.io/posts/2021-09-15-blog-github-pages-3-content.html
+
+https://ed521.github.io/2019/07/hexo-install/
+
+https://ithelp.ithome.com.tw/articles/10198964
